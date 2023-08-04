@@ -1,2 +1,2 @@
-# Rlinwtf.github.io.git
+# Rlinwtf.github.io
 hhh
